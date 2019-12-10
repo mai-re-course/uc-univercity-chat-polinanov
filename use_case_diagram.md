@@ -3,4 +3,4 @@
 2. [Аудио- и видеозвонок в чат](https://github.com/mai-re-course/uc-univercity-chat-polinanov/blob/master/group_call.md "Аудио- и видеозвонок в чат")  
 3. [Демонстрация экрана](https://github.com/mai-re-course/uc-univercity-chat-polinanov/blob/master/screen_share.md "Демонстрация экрана")
 
-![use_case_diagram](http://www.plantuml.com/plantuml/png/dP2nJWCn38RtFCK_jaEF7J6KYHMfuW5COgvHNJjo74I5U7Tq8A5ZwDBv-_p9zhu7UOop9E6tG1YypiT0gSuvgcdgfwgDdCveb4yqyo4kmbWmwIoSA8SvNZexqgiDBUGNFBOcDTDFuK_5PyAlkDjXy-Gs6cYKQhZ3Uorio2IoNKlFxDsKv8ftFOA7QPgmEMHdLlGZEM_lmH_1Mdh2kdp3y3-oBBg-zoljMSloqsy0 "Диаграмма use case")
+![use_case_diagram](http://www.plantuml.com/plantuml/png/ZSynJmCn30NWFR_YZUrGs153cLYHAcPa4dEDweiZnq5KYF_E0HBAmj7vFRtFtZSdypvB47vnkCBoT7IaR1mzQmdjb4ibencLueacFlXP65ynbKauK7GrF3OsX6Vj9P6TSLUhv4ZV2xzLl0Vy57SxREvDUmNrb1NNUCs95P54jW4h8Mwli3b4OoveHp9-sjw0tvnBQkFw0rlJGl87CER_6oEnTji2Zu-Fp0NrZx1VY3xB9m00 "Диаграмма use case")
