@@ -81,5 +81,5 @@
 
 Возврат на шаг 13 {Продолжение конференции}.
 
-![activity_for_group_call](http://polinanov.mati.su/svg/ativity.png  "Диаграмма activity")
+![activity_for_group_call](http://polinanov.mati.su/svg/ativity.png "Диаграмма activity")
 
