@@ -81,7 +81,9 @@
 
 Возврат на шаг 13 {Продолжение конференции}.
 
+# Диаграмма activity
 ![activity_for_group_call](http://polinanov.mati.su/svg/activity.png "Диаграмма activity")
 
+# Диаграмма sequence
 ![sequence_for_personal_call](http://www.plantuml.com/plantuml/png/lP91QiCm44NtEiMGLGBD1R8eCRr0IUawJEK95PKbLJDAoUshIKgb1Yy2XVo53DRt_y_IR5amIvcyuGyN4cQSWEcpKB3qN7USTGc3G0aZPUy26ODMOePNfcpUOdsF-GIB8INlB8gBOG78C1YZ3bW_mh215_9aPI-dH7kBtYzNckAEAAJE0TRLT_PlO4TISbYgTsL6wdrzv4uXMURY37e1BjOIyw5uiCXae6gs9vVQexj_kg2gQtlIbekjcQuoRudqCIRGVJ3m8uNDn2a69f2l2ALcSODMNTF4ANcItxE4JdrXqnpc0JrJ-tYMLqNLrWZZ0QQO2UGTmrrn9PURQCDe-cS_XNYaVPkB2qx0YHv0dAvZoUS9_kT5dm-iX5idiBk7FWPcyKkumm-0okW9RkjI9lyD  "Диаграмма sequence")
 
