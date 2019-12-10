@@ -25,3 +25,8 @@
 
 **Исключения:**
 Нет
+
+
+
+
+![activity_for_personal_call](http://www.plantuml.com/plantuml/png/TP9Dxvim3CRlV0fBk_px5U3IRjEEcxGNxUmcfeaKuYmshIRnuLSC6wDLBmWRy-HvVl5H5AkEGsgc7q9rQgnksY-5iW32G7a4p1w44ZcTM-8gKGPF0sVHYXevTytqxfGr_XhfPuXAqwcK59rzcvhsCsli8mcCGbKWPj10u08gwFn0a4BkFk9i0W8Ac17osu4IiCPywPhs6sKlq5SSJFBUDBsldzv3gQpiEC6RQTCo1UUnxwb2eYkbmrtXOvIIyBV0s-B5SXu0b-DlWI7A_mdpPVDXZWD1j22u1m43U-esVdllS8lPymrwhajwuz7zPTz-3xHpiFvc3bSbnqD9f2JMV4IpusunyPpMMRza1kwjtDlUSr2suWMCdQ7vEl1AyfZKe-AgO-zdb9dBXyIo-jbOFAz5zxGpt0F-2-zVBA4eb-P8sOz3-WC0 "Диаграмма activity")
